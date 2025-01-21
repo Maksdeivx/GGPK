@@ -1,0 +1,8 @@
+Админ. панель wordpress:
+имя: admin
+пароль: admin
+база данных:
+имя пользователя: root
+пароля нет
+UX-прототип: https://www.figma.com/design/CIZI5wsusM9gJl3PoVxPrc/UX-prototype?node-id=0-1&p=f&t=Ll4onywzcZjRyCNk-0
+UI-прототип: https://www.figma.com/design/AGMlGhwCjwzKDq7STjvkX3/UI-prototype?t=Ll4onywzcZjRyCNk-0
